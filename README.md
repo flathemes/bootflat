@@ -35,12 +35,13 @@ We will keep update this project, we will keep adding new widgets and components
 
 ## Changelog:
 
-2014/2/12 version 1.0.1
+2014/2/12 version 1.0.1 support Bootstrap 3.1.0
 
 ## Links:
 
 + [Bootflat Home page](http://www.flathemes.com/)
 + [Bootflat components page](http://www.flathemes.com/docs/components.html)
++ [Bootflat extensions page](http://www.flathemes.com/extensions/extensions.html)
 + [Bootflat Default UI Skin](http://www.flathemes.com/examples/default_ui.html)
 + [Bootflat Square UI Skin](http://www.flathemes.com/examples/square_ui.html)
 
