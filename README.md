@@ -6,8 +6,8 @@ Thanks for supporting our website and enjoy!
 
 ## Feature:
 
-### 1. Bootstrap 3.0
-Bootsflat is based on Bootstrap 3. the sleek, intuitive, and powerful mobile-first front-end framework for faster and easier web development.
+### 1. Bootstrap 3.1.0
+Bootsflat is based on Bootstrap 3.1.0 the sleek, intuitive, and powerful mobile-first front-end framework for faster and easier web development.
 
 ### 2. Lightweight
 We only choose the lightweight plugins, but with rich functions. we use tiny components, css and js size is first consideration.
