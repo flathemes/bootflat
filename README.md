@@ -1,3 +1,7 @@
+### This version of the booflat will no longer maintain, the latest version of bootflat 2.0.0 Built with Sass, provide UI design more beautiful. See:
+
+http://bootflat.github.io/
+
 # What is Bootflat?
 
 Welcome! BOOTFLAT is an open source Flat UI KIT based on Twitter Bootstrap 3 css framework. It provides a faster, easier and less repetitive way for web developers to create elegant web app.
